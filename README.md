@@ -40,11 +40,6 @@ I'm Sathwik Reddy Shamakuri, a Cloud Application Developer who loves turning ide
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikreddyshamakuri&theme=tokyonight" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikreddyshamakuri&layout=compact&theme=tokyonight" width="49%" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sathwikreddyshamakuri&theme=darkhub&no-frame=true&row=1&column=6" />
-
 ---
 
 ### Let's Connect
