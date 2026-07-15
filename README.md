@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> Hi there, I'm Sathwik!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+Application+Developer; Turning+ideas+into+real-world+projects;Always+learning%2C+always+building" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+Application+Developer;Turning+ideas+into+real-world+projects;Always+learning%2C+always+building" alt="Typing SVG" /></a>
 
 ## About Me
 
