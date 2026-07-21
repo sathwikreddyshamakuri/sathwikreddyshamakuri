@@ -34,8 +34,4 @@ I'm Sathwik Reddy Shamakuri, a Cloud Application Developer who loves turning ide
 
 <a href="https://www.linkedin.com/in/sathwikreddyshamakuri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Let's Connect
-
-<a href="https://www.linkedin.com/in/sathwikreddyshamakuri" target="_blank">LinkedIn</a>
-
 Thanks for stopping by — always excited to connect, collaborate, and build something great together.
