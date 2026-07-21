@@ -34,14 +34,6 @@ I'm Sathwik Reddy Shamakuri, a Cloud Application Developer who loves turning ide
 
 <a href="https://www.linkedin.com/in/sathwikreddyshamakuri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sathwikreddyshamakuri&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikreddyshamakuri&theme=tokyonight" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikreddyshamakuri&layout=compact&theme=tokyonight" width="49%" />
----
-
 ### Let's Connect
 
 <a href="https://www.linkedin.com/in/sathwikreddyshamakuri" target="_blank">LinkedIn</a>
