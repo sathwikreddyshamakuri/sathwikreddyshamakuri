@@ -1,37 +1,61 @@
-<img src="https://komarev.com/ghpvc/?username=sathwikreddyshamakuri&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+# Sathwik Reddy Shamakuri
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> Hi there, I'm Sathwik!
+**Generative AI Engineer** — production RAG pipelines, LLM agent workflows, Python backends.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+Application+Developer;Always+learning%2C+always+building" alt="Typing SVG" /></a>
+I build enterprise retrieval and agentic applications for Cengage via NIX United:
+LangGraph orchestration, FastAPI services, Azure OpenAI and AWS underneath.
 
-## About Me
+- Retrieval relevance **+42%** against an internal set of graded query–document pairs
+- Hallucinated responses **−35%** on a held-out prompt suite, via structured output
+  validation and grounded-citation enforcement
+- Document indexing time **−50%** after rebuilding the PDF/Word ingestion pipeline
 
-I'm Sathwik Reddy Shamakuri, a Cloud Application Developer who loves turning ideas into working products. I don't have years on the clock yet, but I make up for it by shipping real, hands-on projects and learning fast along the way.
+**Portfolio → [sathwikreddy.vercel.app](https://sathwikreddy.vercel.app)**
 
-🔭 I build practical projects spanning cloud, data, and full-stack apps<br>
-🌱 Constantly leveling up my skills in Python, Java, JavaScript, TypeScript, and SQL<br>
-⚡ I enjoy solving problems with clean, efficient code<br>
-🤝 Open to collaborating on interesting cloud and software projects
+---
 
-## Tech Stack
+### What I work with
 
-**Frontend**<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+**Generative AI** — Azure OpenAI · GPT-4o · Amazon Bedrock · Claude · Llama · prompt
+chaining · structured output validation · JSON schema constraints · function calling
 
-**Backend**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+**Agents & RAG** — LangChain · LangGraph · LlamaIndex · FAISS · ChromaDB · semantic
+search · document chunking · retrieval evaluation
 
-**Tools**<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+**Fine-tuning & MLOps** — PEFT · LoRA · QLoRA · Hugging Face Transformers · PyTorch ·
+experiment tracking · model versioning · prompt evaluation · AI guardrails
 
-## Connect With Me
+**Backend** — Python · FastAPI · Flask · REST · SSE streaming · async · SQLAlchemy ·
+PostgreSQL · MySQL · Pandas · NumPy
 
-<a href="https://www.linkedin.com/in/sathwikreddyshamakuri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+**Cloud & DevOps** — AWS (Bedrock, Lambda, API Gateway, ECS, EKS, S3, IAM, CloudWatch) ·
+Azure (OpenAI, AI Search, Blob Storage, Functions, Key Vault) · Docker · Kubernetes ·
+CI/CD · pytest
 
-Thanks for stopping by — always excited to connect, collaborate, and build something great together.
+---
+
+### Projects
+
+**[aws-cost-pilot](https://github.com/sathwikreddyshamakuri/aws-cost-pilot)** — serverless
+GenAI application that parses AWS billing exports and returns plain-English cost drivers
+and savings estimates through Amazon Bedrock. Schema-constrained model output so
+downstream clients parse reliably. *Bedrock · FastAPI · Lambda · API Gateway · S3*
+
+**RAG Knowledge Assistant** — multi-document question answering with document-scoped
+vector identifiers in ChromaDB and token-by-token streaming over FastAPI.
+*In progress*
+
+**[Portfolio](https://github.com/sathwikreddyshamakuri/Portfolio)** — this site, written
+by hand. No framework, no build step, WCAG AA throughout.
+
+---
+
+### Background
+
+M.S. Computer Science, Saint Leo University — August 2026 (expected). Before language
+models, I wrote Python that drove automated test equipment on a defense-electronics line
+in Hyderabad, parsing wafer inspection runs where a mislabeled row was a traceability
+failure rather than a bad chart.
+
+Tampa, FL · [sathwikreddy.eng@gmail.com](mailto:sathwikreddy.eng@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/sathwikreddyshamakuri)
