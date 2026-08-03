@@ -45,9 +45,6 @@ downstream clients parse reliably. *Bedrock · FastAPI · Lambda · API Gateway 
 vector identifiers in ChromaDB and token-by-token streaming over FastAPI.
 *In progress*
 
-**[Portfolio](https://github.com/sathwikreddyshamakuri/Portfolio)** — this site, written
-by hand. No framework, no build step, WCAG AA throughout.
-
 ---
 
 ### Background
