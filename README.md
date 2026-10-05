@@ -36,7 +36,7 @@ CI/CD · pytest
 
 ### Projects
 
-**[aws-cost-pilot](https://github.com/sathwikreddyshamakuri/aws-cost-pilot)** : serverless
+**[AWS-cost-pilot](https://github.com/sathwikreddyshamakuri/aws-cost-pilot)** : serverless
 GenAI application that parses AWS billing exports and returns plain-English cost drivers
 and savings estimates through Amazon Bedrock. Schema-constrained model output so
 downstream clients parse reliably. *Bedrock · FastAPI · Lambda · API Gateway · S3*
