@@ -41,7 +41,7 @@ GenAI application that parses AWS billing exports and returns plain-English cost
 and savings estimates through Amazon Bedrock. Schema-constrained model output so
 downstream clients parse reliably. *Bedrock · FastAPI · Lambda · API Gateway · S3*
 
-**RAG Knowledge Assistant** : multi-document question answering with document-scoped
+**[RAG Knowledge Assistant](https://github.com/sathwikreddyshamakuri/ai-knowledge-assistant-rag)** : multi-document question answering with document-scoped
 vector identifiers in ChromaDB and token-by-token streaming over FastAPI.
 *In progress*
 
