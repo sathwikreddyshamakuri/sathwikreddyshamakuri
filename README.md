@@ -36,12 +36,12 @@ CI/CD · pytest
 
 ### Projects
 
-**[aws-cost-pilot](https://github.com/sathwikreddyshamakuri/aws-cost-pilot)** — serverless
+**[aws-cost-pilot](https://github.com/sathwikreddyshamakuri/aws-cost-pilot)** : serverless
 GenAI application that parses AWS billing exports and returns plain-English cost drivers
 and savings estimates through Amazon Bedrock. Schema-constrained model output so
 downstream clients parse reliably. *Bedrock · FastAPI · Lambda · API Gateway · S3*
 
-**RAG Knowledge Assistant** — multi-document question answering with document-scoped
+**RAG Knowledge Assistant** : multi-document question answering with document-scoped
 vector identifiers in ChromaDB and token-by-token streaming over FastAPI.
 *In progress*
 
@@ -49,7 +49,7 @@ vector identifiers in ChromaDB and token-by-token streaming over FastAPI.
 
 ### Background
 
-M.S. Computer Science, Saint Leo University — August 2026 (expected). Before language
+M.S. Computer Science, Saint Leo University : August 2026 (expected). Before language
 models, I wrote Python that drove automated test equipment on a defense-electronics line
 in Hyderabad, parsing wafer inspection runs where a mislabeled row was a traceability
 failure rather than a bad chart.
